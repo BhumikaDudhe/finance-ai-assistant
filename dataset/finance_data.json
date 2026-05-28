@@ -1,0 +1,62 @@
+[
+  {
+    "instruction": "What is EBITDA?",
+    "response": "EBITDA stands for Earnings Before Interest Taxes Depreciation and Amortization and measures operational profitability."
+  },
+  {
+    "instruction": "What is a stock?",
+    "response": "A stock represents ownership in a company and gives investors a claim on company assets and profits."
+  },
+  {
+    "instruction": "What is investment?",
+    "response": "Investment means allocating money into assets with the expectation of generating profit or future growth."
+  },
+  {
+    "instruction": "What is SIP?",
+    "response": "SIP means Systematic Investment Plan where investors regularly invest fixed amounts into mutual funds."
+  },
+  {
+    "instruction": "What is mutual fund?",
+    "response": "A mutual fund pools money from multiple investors and invests in diversified assets."
+  },
+  {
+    "instruction": "What is equity?",
+    "response": "Equity represents ownership value in a company."
+  },
+  {
+    "instruction": "What is P/E Ratio?",
+    "response": "P/E Ratio compares a company's stock price with its earnings per share."
+  },
+  {
+    "instruction": "What is market capitalization?",
+    "response": "Market capitalization is the total value of a company's outstanding shares."
+  },
+  {
+    "instruction": "What is dividend?",
+    "response": "Dividend is a portion of company profits distributed to shareholders."
+  },
+  {
+    "instruction": "What is ROI?",
+    "response": "ROI means Return on Investment and measures investment profitability."
+  },
+  {
+    "instruction": "What is balance sheet?",
+    "response": "A balance sheet shows company assets liabilities and shareholder equity."
+  },
+  {
+    "instruction": "What is inflation?",
+    "response": "Inflation is the increase in prices over time reducing purchasing power."
+  },
+  {
+    "instruction": "What is cryptocurrency?",
+    "response": "Cryptocurrency is a digital currency secured using blockchain technology."
+  },
+  {
+    "instruction": "What is diversification?",
+    "response": "Diversification means spreading investments across different assets to reduce risk."
+  },
+  {
+    "instruction": "What is risk management?",
+    "response": "Risk management involves identifying and minimizing financial risks."
+  }
+]
